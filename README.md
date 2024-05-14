@@ -27,7 +27,8 @@ Welcome to Kirby Game TS! This is a simple Kirby-themed game built using Vite fo
 
 - Kirby assets and sprites by Nintendo.
 - Tiled for creating backgrounds and level design.
-
+-  Also special thanks to @FreeCodeCamp and @JSlegendDev for the inspiration and guidance.
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
